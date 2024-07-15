@@ -1,0 +1,1 @@
+원격 repository를 사용하여 local repository를 초기화 하기 위한 테스트 파일임.
